@@ -1,4 +1,4 @@
-service:
+services:
   app:
     image: gcc
     working_dir: /app
